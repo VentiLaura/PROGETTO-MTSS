@@ -14,3 +14,6 @@ PERIFERICHE
 Hp 350
 Logitech K400 Plus
 Corsair K60 RGB Pro
+Trust GXT101
+Logitech M90
+Redragon M607
