@@ -11,3 +11,6 @@ Intel Core i9-13900K
 Elettronica Padovana
 
 PERIFERICHE
+Hp 350
+Logitech K400 Plus
+Corsair K60 RGB Pro
