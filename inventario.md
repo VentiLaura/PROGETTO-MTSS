@@ -9,3 +9,5 @@ Ryzen 9 9950X
 Ryzen Threadripper Pro 7980X
 Intel Core i9-13900K
 Elettronica Padovana
+
+PERIFERICHE
