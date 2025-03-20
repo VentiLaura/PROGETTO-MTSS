@@ -11,3 +11,6 @@ Intel Core i9-13900K
 Elettronica Padovana
 
 PERIFERICHE
+Trust GXT101
+Logitech M90
+Redragon M607
